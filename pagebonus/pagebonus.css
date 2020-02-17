@@ -50,6 +50,8 @@ p {
 }
 
 footer {
+    display: flex;
+    justify-content: center;
     background-color: #496C0F;
     height: 40px;
     padding-bottom: 0px;
@@ -58,21 +60,19 @@ footer {
 .facebook {
     height: 40px;
     width: 40px;
-    float: right;
 }
 
 .pied {
+    display: flex;
+    align-items: center;
     margin-top: 0px;
     margin-bottom: 0px;
     padding-right: 90px;
-    text-align: right;
-    align-items: center;
 }
 
 .twitter {
     height: 40px;
     width: 40px;
-    float: right;
 }
 
 #ameliorer {

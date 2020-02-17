@@ -62,6 +62,8 @@ h2 {
 }
 
 footer {
+    display: flex;
+    justify-content: center;
     background-color: #496C0F;
     height: 40px;
 }
@@ -69,19 +71,17 @@ footer {
 .facebook {
     height: 40px;
     width: 40px;
-    float: right;
 }
 
 .pied {
+    display: flex;
+    align-items: center;
     margin-top: 0px;
     margin-bottom: 0px;
-    text-align: right;
-    align-items: center;
     padding-right: 90px;
 }
 
 .twitter {
     height: 40px;
     width: 40px;
-    float: right;
 }
