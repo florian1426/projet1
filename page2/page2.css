@@ -1,5 +1,5 @@
 body {
-    margin: 0;
+    margin: 0px;
 }
 
 img {
@@ -11,7 +11,7 @@ img {
 h1 {
     position: absolute;
     right: 650px;
-    top: 3px;
+    top: 0px;
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 40px;
