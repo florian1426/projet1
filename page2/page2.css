@@ -11,7 +11,7 @@ img {
 h1 {
     position: absolute;
     right: 650px;
-    top: 30px;
+    top: 3px;
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 40px;
@@ -29,13 +29,16 @@ ul {
     line-height: 40px;
     margin-bottom: 0px;
     align-items: center;
-    color: white;
 }
 
 li {
     display: inline-flex;
     color: white;
     font-size: 25px;
+}
+
+a {
+    text-decoration: none;
 }
 
 div {

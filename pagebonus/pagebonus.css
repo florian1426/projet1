@@ -37,6 +37,10 @@ li {
     font-size: 25px;
 }
 
+a {
+    text-decoration: none;
+}
+
 div {
     border: 10px solid #8AA9D9;
     background-color: #C8E2EB;
@@ -76,6 +80,6 @@ footer {
 }
 
 #ameliorer {
-    width: 600px;
-    height: 120px;
+    width: 900px;
+    height: 320px;
 }
