@@ -91,3 +91,11 @@
         height: 40px;
         width: 40px;
     }
+    
+    .audiocontainer {
+        display: flex;
+        justify-content: center;
+    }
+    /* audio {
+        margin-left: 750px;
+    } */
